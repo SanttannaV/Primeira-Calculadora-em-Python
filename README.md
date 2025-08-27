@@ -1,5 +1,6 @@
 Especificações Técnicas 📝
 O programa opera através de um terminal, onde o usuário insere dois números e a operação desejada. 
+OBSERVAÇÃO: Projeto em desenvolvimento. 😉.
 
 Tecnologias Utilizadas🖥
 Linguagem de Programação: Python.
